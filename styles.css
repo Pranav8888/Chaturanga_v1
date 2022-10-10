@@ -1,0 +1,118 @@
+#FenInDiv {
+	position: relative;
+	left: 6vmin;
+}
+
+#fenIn {
+	width: 32vmin;
+	left: 6vmin;
+}
+
+#Board {
+	position: relative;
+	top: 2vmin;
+	left: 6vmin;
+	width: 48vmin;
+	height: 48vmin;
+	border-style: solid;
+	border-width: 0.2vmin;
+}
+
+#EngineOutput {
+	position: absolute;
+	left: 60vmin;
+	top: 15vmin;
+	font-family: "Verdana";
+	font-size: 2.1vmin;
+}
+
+button, select {
+	font-family: 'Segoe UI';
+	font-size: 1.8vmin;
+}
+
+h3, h4 {
+	font-family: "Trebuchet MS";
+	font-size: 2.4vmin;
+}
+
+.Square {
+	position: absolute;
+	width: 6vmin;
+	height: 6vmin;
+}
+
+.Dark {
+	background-color:#326649;
+}
+
+.Light {
+	background-color:#eee;
+}
+
+.SqSelected {
+	background-color:#7ed251;
+}
+
+.rank1 { top: 42vmin; }
+.rank2 { top: 36vmin; }
+.rank3 { top: 30vmin; }
+.rank4 { top: 24vmin; }
+.rank5 { top: 18vmin; }
+.rank6 { top: 12vmin; }
+.rank7 { top: 6vmin; }
+.rank8 { top: 0vmin; }
+
+.file1 { left: 0vmin; }
+.file2 { left: 6vmin; }
+.file3 { left: 12vmin; }
+.file4 { left: 18vmin; }
+.file5 { left: 24vmin; }
+.file6 { left: 30vmin; }
+.file7 { left: 36vmin; }
+.file8 { left: 42vmin; }
+
+.Piece {
+	position: absolute;
+	width: 6vmin;
+	height: 6vmin;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
